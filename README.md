@@ -1,5 +1,5 @@
 Challenge 2
-Live Link:https://yazbustami.github.io/Challenge2/
+Live Link:https://yazbustami.github.io/CHALLENGE2-/
 Why did I make it look like this?
     While trying to keep the assignments display relevant, I wanted to bring in the Mini-challenge's design and bring a gradient look into my Portfolio.
 I built this Project to help me get started with my Portfolio, it'll help me with my professioal career.
